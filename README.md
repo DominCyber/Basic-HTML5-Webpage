@@ -12,5 +12,5 @@ Build a basic HTML5 webpage. Demonstrate proficency in understanding of internet
 ### Tools Used
 -HTMLpad compiler to conduct HTML5, CSS, JavaScript programming
 
-![1](https://i.imgur.com/ZOQ4JQy.jpg)
+<img src="https://i.imgur.com/ZOQ4JQy.jpg" style="width: 50%;" alt="1">
 <p><i>Preview of mainpage</i></p>
