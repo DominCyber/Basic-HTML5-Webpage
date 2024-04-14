@@ -1,9 +1,9 @@
-# Basic HTML5 Webpage
+# HTML5 Webpage Fundatmentals
 ## Objective
-Build a basic HTML5 webpage. Demonstrate proficency in understanding of internet applications development and web design. Process debugged code execution and interactive webform functions.
+Saint Leo University Course work intended to familiarize undergraduates with HTML5 Webpage Fundatmentals. This cornerstone project allowed users to demonstrate proficency and understanding of internet application development, web design, process debugged code execution, and interactive webform functions.
 
 ### Skills Learned
--Basic HTML5, CSS, JavaScript programming concepts
+-Fundamental HTML5, CSS, JavaScript programming concepts
 -Understanding of form field, radio button, dropdowns and other webpage function via code execution
 -Application and Presentation layer concepts
 -HTML vulnerabilities
