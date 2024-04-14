@@ -1,6 +1,6 @@
-# HTML5 Webpage Fundatmentals
+# HTML5 Webpage Fundamentals
 ## Objective
-Saint Leo University Course work intended to familiarize undergraduates with HTML5 Webpage Fundatmentals. This cornerstone project allowed users to demonstrate proficency and understanding of internet application development, web design, process debugged code execution, and interactive webform functions.
+Saint Leo University Course work intended to familiarize undergraduates with HTML5 Webpage Fundamentals. This cornerstone project allowed users to demonstrate proficency and understanding of internet application development, web design, process debugged code execution, and interactive webform functions.
 
 ### Skills Learned
 -Fundamental HTML5, CSS, JavaScript programming concepts
